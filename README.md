@@ -3,6 +3,7 @@ Description
 CURA is a comprehensive, locally-hostable medical AI assistant that provides intelligent health insights without requiring cloud connectivity or external APIs. The system delivers personalized health recommendations, disease risk assessments, and proactive monitoring through an intuitive web interface.
 
 Key Features
+
 🩺 AI-Powered Medical Chatbot: Rule-based conversational system covering 30+ medical topics with no OpenAI dependency
 📊 Disease Prediction: Analyze symptoms to identify possible conditions using ML models
 📱 Health Monitoring Dashboard: Simulate wearable device integration for real-time health metrics and alerts
@@ -12,7 +13,6 @@ Diabetes Risk Assessment
 Lifestyle Recommendations
 Anomaly Detection
 Skin Disease Detection
-🔒 Privacy-Focused: All processing happens locally with no data sent to external servers
 
 Technologies
 Backend: Flask web framework with SQLite database
